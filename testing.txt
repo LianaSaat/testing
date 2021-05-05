@@ -1,3 +1,5 @@
 1, 2, buckle my shoe
 
 3, 4, shut the door
+
+7, 8, lay them straight
